@@ -1,9 +1,8 @@
 # Project Presentation — SETU (Team Epsilon)
+## Presentation
 
-Upload the **final SIH presentation (PPT/PPTX)** in this `submission/` folder and keep
-it with the repository.
-
-## Team Epsilon
+The final SIH presentation is hosted on Google Drive:
+- **PPT:** [Open Final Presentation (Google Drive)](https://drive.google.com/drive/folders/1U0C9GeCJx9CTRL0o38cEHl6f9uTMM1YM)
 
 | Member | Roll No. | Role | GitHub |
 |---|---|---|---|
@@ -14,13 +13,5 @@ it with the repository.
 | Bhavya Maheshwari | 2024UIN2373 | Data & Institutional Memory | [@m-bhavyaa](https://github.com/m-bhavyaa) |
 | Abhinav Kumar | 2024UIN3302 | Schedule Linking & Audit | [@not-simple-abhi](https://github.com/not-simple-abhi) |
 
-## Presentation
 
-The final SIH presentation is hosted on Google Drive:
 
-- **PPT:** [Open Final Presentation (Google Drive)](https://drive.google.com/drive/folders/1U0C9GeCJx9CTRL0o38cEHl6f9uTMM1YM)
-
-### Before submission
-
-- Ensure the Drive folder's sharing is set to **"Anyone with the link — Viewer"** so reviewers can open it without requesting access.
-- Test the link while logged out / incognito.
