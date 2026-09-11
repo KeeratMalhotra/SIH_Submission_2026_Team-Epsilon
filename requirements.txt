@@ -1,0 +1,16 @@
+# SETU is a multi-package monorepo (Python + Node) — the full, authoritative
+# dependency set lives in the product repository:
+#   https://github.com/KeeratMalhotra/SETU
+#
+# Backend (Python) is managed with uv (pyproject.toml + uv.lock) there; the
+# frontend (Node) with npm. This file lists the headline backend runtimes for
+# reviewers skimming this submission repo. To actually run the project, clone the
+# product repo and follow docs/RUN_LOCALLY.md.
+
+fastapi
+uvicorn
+sqlalchemy
+langgraph
+pydantic
+scikit-learn
+rapidfuzz
