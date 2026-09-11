@@ -13,7 +13,7 @@ Use this checklist before sharing the GitHub repository link.
 - [x] Setup and run instructions are provided (and detailed in the product repo).
 - [ ] Team members and roles are mentioned. *(fill in `submission/PRESENTATION.md`)*
 - [ ] Important screenshots are included in `assets/screenshots/`.
-- [ ] Final PPT/presentation is placed in `submission/` or linked in `submission/PRESENTATION.md`.
+- [x] Final PPT/presentation is linked in `submission/PRESENTATION.md` (Google Drive). *(set sharing to "Anyone with the link")*
 - [ ] Demo video link is added to `submission/DEMO.md` (optional but recommended).
 - [ ] Repository is accessible to reviewers.
 

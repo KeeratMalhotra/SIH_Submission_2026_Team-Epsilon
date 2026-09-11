@@ -146,8 +146,8 @@ SIH_Submission_2026_Team-Epsilon/
 
 ## 8. Final Presentation
 
-The final SIH presentation link is in [submission/PRESENTATION.md](submission/PRESENTATION.md).
-If the PPT is too large for GitHub, an accessible Google Drive/OneDrive viewer link is placed there.
+The final SIH presentation is on Google Drive — link in
+[submission/PRESENTATION.md](submission/PRESENTATION.md).
 
 ## 9. Demo Video
 
