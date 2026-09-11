@@ -6,10 +6,17 @@ SETU turns the messy field updates a site already sends — voice notes, daily r
 spreadsheets, photographed diary pages — into an up-to-date Primavera schedule in
 minutes instead of weeks, with a confidence score and an audit trail behind every date.
 
-> **Source code:** the full working product lives at
-> **[github.com/KeeratMalhotra/SETU](https://github.com/KeeratMalhotra/SETU)**.
+## 🔗 Quick Links
+
+| | |
+|---|---|
+| 🚀 **Live app** | **https://setu-live.vercel.app** |
+| 📊 **Presentation (PPT)** | [Google Drive](https://drive.google.com/drive/folders/1U0C9GeCJx9CTRL0o38cEHl6f9uTMM1YM) |
+| 🎥 **Demo video** | *coming soon — see [submission/DEMO.md](submission/DEMO.md)* |
+| 💻 **Source code** | [github.com/KeeratMalhotra/SETU](https://github.com/KeeratMalhotra/SETU) |
+
 > This repository is the SIH 2026 submission (overview, architecture, presentation,
-> demo and screenshots).
+> demo and screenshots). The full working product lives in the source-code repo above.
 
 ## 1. Project Information
 
@@ -21,6 +28,17 @@ minutes instead of weeks, with a confidence score and an audit trail behind ever
 - **Category:** Software
 - **Theme:** Smart Automation
 - **Team:** Team Epsilon
+
+### Team Members
+
+| Member | Roll No. | Role | GitHub |
+|---|---|---|---|
+| **Keerat Malhotra** | 2024UIN3311 | Team Lead · Backend & Deployment | [@KeeratMalhotra](https://github.com/KeeratMalhotra) |
+| Bhumika Aswal | 2024UIN2353 | Frontend & UX | [@bhumikaaaswal91](https://github.com/bhumikaaaswal91) |
+| Jatin Kumar | 2024UIN3332 | AI / Linker (5-signal matcher) | [@Jatin21006](https://github.com/Jatin21006) |
+| Lian Suan Mang | 2024UIN3340 | Telegram Bot & Ingestion | [@josephliann](https://github.com/josephliann) |
+| Bhavya Maheshwari | 2024UIN2373 | Data & Institutional Memory | [@m-bhavyaa](https://github.com/m-bhavyaa) |
+| Abhinav Kumar | 2024UIN3302 | Schedule Linking & Audit | [@not-simple-abhi](https://github.com/not-simple-abhi) |
 
 ## 2. Problem Statement
 
