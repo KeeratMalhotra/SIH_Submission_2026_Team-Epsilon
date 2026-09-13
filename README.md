@@ -12,7 +12,7 @@ minutes instead of weeks, with a confidence score and an audit trail behind ever
 |---|---|
 | 🚀 **Live app** | **https://setu-live.vercel.app** |
 | 📊 **Presentation (PPT)** | [Google Drive](https://drive.google.com/drive/folders/1U0C9GeCJx9CTRL0o38cEHl6f9uTMM1YM) |
-| 🎥 **Demo video** | *coming soon — see [submission/DEMO.md](submission/DEMO.md)* |
+| 🎥 **Demo video** | [Youtube Demo Link](https://youtu.be/0Y6NT8d8ZXs) |
 | 💻 **Source code** | [github.com/KeeratMalhotra/SETU](https://github.com/KeeratMalhotra/SETU) |
 
 > This repository is the SIH 2026 submission (overview, architecture, presentation,
